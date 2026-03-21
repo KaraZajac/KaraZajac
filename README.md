@@ -6,8 +6,6 @@
 
 I architect enterprise security platforms for the U.S. Intelligence Community. Former Navy cyber operator and all-source cyber analyst with end-to-end expertise across threat lifecycles, defensive strategy, and offensive security research.
 
-When I'm not building at scale, I'm reverse engineering RF protocols, writing Rust, or competing in OSINT CTFs.
-
 ---
 
 ### 🔧 Areas of Focus
@@ -27,7 +25,7 @@ When I'm not building at scale, I'm reverse engineering RF protocols, writing Ru
 | Certified Ethical Hacker (CEH) | EC-Council |
 | Certified Network Defense Architect (CNDA) | EC-Council |
 | CompTIA Security+ ce | CompTIA |
-| MVO Badge — Global OSINT Search Party CTF | Trace Labs |
+| MVO Badge — Global OSINT Search Party CTF x2| Trace Labs |
 
 ---
 
@@ -54,6 +52,7 @@ When I'm not building at scale, I'm reverse engineering RF protocols, writing Ru
 | [**rIRCd**](https://github.com/KaraZajac/rIRCd) | IRC server written in Rust with bleeding-edge capabilities |
 | [**DHT_Crawler**](https://github.com/KaraZajac/DHT_Crawler) | BitTorrent DHT network listener for magnet link discovery |
 | [**Keystore_Decrypter**](https://github.com/KaraZajac/Keystore_Decrypter) | Decrypts Flipper Zero SubGhz keystore files |
+| [**switchboard**](https://github.com/KaraZajac/switchboard) | A modern IRC client the aligns with the latest IRCv3 spec  |
 
 ---
 
