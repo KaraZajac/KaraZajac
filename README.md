@@ -4,7 +4,7 @@
 
 I spent fourteen years in national security — first as a U.S. Navy cyber operator, then as an all-source analyst and security engineer inside the intelligence community. These days I do that work somewhere new, and I spend my off hours building the things below.
 
-Most of them start the same way: a question I can't put down. *How much of my movement is a license plate reader actually recording? Could you forecast a war honestly enough to be scored on it afterward? Why has nobody assembled a clean, open dataset of every Supreme Court vote ever cast?* A couple have grown into archived, citable research. Most are just me following my curiosity in public. You're welcome to any of it.
+Most of them start the same way: a question I can't put down. *How much of my movement is a license plate reader actually recording? Could you forecast a war honestly enough to be scored on it afterward? Why has nobody assembled a clean, open dataset of every Supreme Court vote ever cast?* Four have grown into archived, citable research. Most are just me following my curiosity in public. You're welcome to any of it.
 
 ---
 
