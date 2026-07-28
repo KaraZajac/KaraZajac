@@ -27,7 +27,9 @@ Half of any research project turns out to be discovering that the data you assum
 - **[AUSPEX](https://github.com/KaraZajac/AUSPEX)** · [auspex.blackflagintel.com](https://auspex.blackflagintel.com) — a doctrine-tagged corpus of state-sponsored cyber operations, built so that every claim traces back to a verified source.
   <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21327251.svg)](https://doi.org/10.5281/zenodo.21327251)
 - **[TOCSIN](https://github.com/KaraZajac/TOCSIN)** · [tocsin.karazajac.io](https://tocsin.karazajac.io) — conflict forecasting built on UCDP reference-class base rates, with self-resolving questions and calibration scoring against the prior. It keeps me honest.
+  <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21634193.svg)](https://doi.org/10.5281/zenodo.21634193)
 - **[SUCCURRO](https://github.com/KaraZajac/SUCCURRO)** · [succurro.org](https://succurro.org) — a hyper-local dataset of US help and support services: recovery meetings, shelters, food banks, veteran and LGBTQ+ services, crisis lines. Resolved down to the city, because "somewhere in your state" helps nobody at 2am.
+  <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21634583.svg)](https://doi.org/10.5281/zenodo.21634583)
 
 ---
 
