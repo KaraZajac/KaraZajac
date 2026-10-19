@@ -12,8 +12,8 @@ Most of them start the same way: a question I can't put down. *How much of my mo
 
 Surveillance is much easier to argue about than it is to see. These are attempts to make it legible to ordinary people, and then get out of the way.
 
-- **[TRAMES](https://github.com/KaraZajac/TRAMES)** — navigation that routes you *around* automated license plate readers. An OsmAnd client, a GraphHopper backend, and the exposure study that convinced me it was worth building.
-- **[OVERWATCH](https://github.com/KaraZajac/OVERWATCH)** · [overwatch.netslum.io](https://overwatch.netslum.io) — passive surveillance detection for Android. It fuses BLE and WiFi scans with the DeFlock ALPR map and live community feeds to flag Flock cameras, Axon body cams, and police presence nearby.
+- **[TRAMES](https://github.com/KaraZajac/TRAMES)** · [trames.karazajac.io](https://trames.karazajac.io) — navigation that routes you *around* automated license plate readers. An offline Android app built on OsmAnd, and the 51-state exposure study that convinced me it was worth building.
+- **[OVERWATCH](https://github.com/KaraZajac/OVERWATCH)** · [overwatch.netslum.io](https://overwatch.netslum.io) — surveillance detection for Android. It reads BLE and Wi-Fi scans, the DeFlock camera map, Waze police reports and ADS-B flight data to flag Flock cameras, Axon body cams, police and surveillance aircraft nearby, and it never connects to anything it detects.
 - **[VIGIL](https://github.com/KaraZajac/VIGIL)** · [vigil.netslum.io](https://vigil.netslum.io) — counter-tracking over time. Detects AirTags, Tiles, SmartTags, and Find My devices that keep showing up wherever you go. Everything stays on your phone.
 
 ---
