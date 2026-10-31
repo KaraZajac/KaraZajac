@@ -74,6 +74,7 @@ I like hearing from people — about the projects, about something you're buildi
 
 **Email** · [kara@soulstone.org](mailto:kara@soulstone.org)  
 **Signal** · `kara.01`  
-**Blog** · [karazajac.io](https://karazajac.io)
+**Blog** · [karazajac.io](https://karazajac.io)  
+**YouTube** · [@Kara_Zajac](https://www.youtube.com/@Kara_Zajac)
 
 <sub>Opinions are my own.</sub>
