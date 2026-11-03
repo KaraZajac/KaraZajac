@@ -24,7 +24,7 @@ Half of any research project turns out to be discovering that the data you assum
 
 - **[JUDGMENT](https://github.com/KaraZajac/JUDGMENT)** · [judgment.karazajac.io](https://judgment.karazajac.io) — every U.S. Supreme Court judgment from 1791 to 2024. 29,000 cases and 256,000 justice votes, as browsable YAML, with an ETL pipeline and a forecasting roadmap.
   <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21211376.svg)](https://doi.org/10.5281/zenodo.21211376)
-- **[AUSPEX](https://github.com/KaraZajac/AUSPEX)** · [auspex.blackflagintel.com](https://auspex.blackflagintel.com) — a doctrine-tagged corpus of state-sponsored cyber operations, built so that every claim traces back to a verified source.
+- **[AUSPEX](https://github.com/KaraZajac/AUSPEX)** · [auspex.karazajac.io](https://auspex.karazajac.io) — a doctrine-tagged corpus of state-sponsored cyber operations, built so that every claim traces back to a verified source.
   <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21327251.svg)](https://doi.org/10.5281/zenodo.21327251)
 - **[TOCSIN](https://github.com/KaraZajac/TOCSIN)** · [tocsin.karazajac.io](https://tocsin.karazajac.io) — conflict forecasting built on UCDP reference-class base rates, with self-resolving questions and calibration scoring against the prior. It keeps me honest.
   <br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21634193.svg)](https://doi.org/10.5281/zenodo.21634193)
