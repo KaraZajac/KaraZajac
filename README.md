@@ -13,8 +13,8 @@ Most of them start the same way: a question I can't put down. *How much of my mo
 Surveillance is much easier to argue about than it is to see. These are attempts to make it legible to ordinary people, and then get out of the way.
 
 - **[TRAMES](https://github.com/KaraZajac/TRAMES)** · [trames.karazajac.io](https://trames.karazajac.io) — navigation that routes you *around* automated license plate readers. An offline Android app built on OsmAnd, and the 51-state exposure study that convinced me it was worth building.
-- **[OVERWATCH](https://github.com/KaraZajac/OVERWATCH)** · [overwatch.netslum.io](https://overwatch.netslum.io) — surveillance detection for Android. It reads BLE and Wi-Fi scans, the DeFlock camera map, Waze police reports and ADS-B flight data to flag Flock cameras, Axon body cams, police and surveillance aircraft nearby, and it never connects to anything it detects.
-- **[VIGIL](https://github.com/KaraZajac/VIGIL)** · [vigil.netslum.io](https://vigil.netslum.io) — counter-tracking over time. Detects AirTags, Tiles, SmartTags, and Find My devices that keep showing up wherever you go. Everything stays on your phone.
+- **[OVERWATCH](https://github.com/KaraZajac/OVERWATCH)** · [overwatch.karazajac.io](https://overwatch.karazajac.io) — surveillance detection for Android. It reads BLE and Wi-Fi scans, the DeFlock camera map, Waze police reports and ADS-B flight data to flag Flock cameras, Axon body cams, police and surveillance aircraft nearby, and it never connects to anything it detects.
+- **[VIGIL](https://github.com/KaraZajac/VIGIL)** · [vigil.karazajac.io](https://vigil.karazajac.io) — counter-tracking over time. Detects AirTags, Tiles, SmartTags, and Find My devices that keep showing up wherever you go. Everything stays on your phone.
 
 ---
 
@@ -36,7 +36,7 @@ Half of any research project turns out to be discovering that the data you assum
 ### 🔧 Taking things apart to see how they work
 
 - **[KAT](https://github.com/KaraZajac/KAT)** — the Keyfob Analysis Toolkit. RF protocol analysis for automotive security research, and the project that taught me most of what I know about radio.
-- **[SKELETONKEY](https://github.com/KaraZajac/SKELETONKEY)** · [skeletonkey.netslum.io](https://skeletonkey.netslum.io) — a curated corpus of Linux privilege-escalation techniques, 28 modules spanning 2016 to 2026. Every one ships with detection rules, because the defensive half is the point.
+- **[SKELETONKEY](https://github.com/KaraZajac/SKELETONKEY)** · [skeletonkey.karazajac.io](https://skeletonkey.karazajac.io) — a curated corpus of Linux privilege-escalation techniques, 28 modules spanning 2016 to 2026. Every one ships with detection rules, because the defensive half is the point.
 
 ---
 
@@ -52,7 +52,7 @@ An old protocol I'm fond of, rebuilt a few different ways.
 
 ### 🌙 Something gentler
 
-- **[HALCYON](https://github.com/KaraZajac/HALCYON)** · [halcyon.netslum.io](https://halcyon.netslum.io) — box breathing for Android. One tap to start, zero permissions, no accounts, nothing to sign up for. The animation is the whole app. I made it for myself and left it out where anyone can find it.
+- **[HALCYON](https://github.com/KaraZajac/HALCYON)** · [halcyon.karazajac.io](https://halcyon.karazajac.io) — box breathing for Android. One tap to start, zero permissions, no accounts, nothing to sign up for. The animation is the whole app. I made it for myself and left it out where anyone can find it.
 
 ---
 
